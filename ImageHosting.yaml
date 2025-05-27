@@ -1,3 +1,4 @@
+# behavior:domain
 payload:
   - '+.2048.spa'
   - '+.acg.lol'
@@ -19,4 +20,5 @@ payload:
   - '+.y7mn.com'
   - '+.ylimg.com'
   - '+.z4a.net'
+  - '+.locust.cc'
   
