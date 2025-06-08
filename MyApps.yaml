@@ -1,0 +1,21 @@
+payload:
+  # WeChat
+  - PROCESS-NAME,WeChat,DIRECT
+  - PROCESS-NAME,WeChat.exe,DIRECT
+  - PROCESS-NAME,WeChatUpdate,DIRECT
+  - PROCESS-NAME,WeChatUpdate.exe,DIRECT
+  - PROCESS-NAME,WeChatExt,DIRECT
+  - PROCESS-NAME,WeChatExt.exe,DIRECT
+  - PROCESS-NAME,mmcrashpad_handler64,DIRECT
+  - PROCESS-NAME,mmcrashpad_handler64.exe,DIRECT
+  - PROCESS-NAME,WetypeInstaller,DIRECT
+  - PROCESS-NAME,WetypeInstaller.exe,DIRECT
+  - PROCESS-NAME,WechatCodec,DIRECT
+  - PROCESS-NAME,WechatCodec.exe,DIRECT
+  - PROCESS-NAME,WeChatSpt,DIRECT
+  - PROCESS-NAME,WeChatSpt.exe,DIRECT
+  - PROCESS-NAME,WechatAppLauncher,DIRECT
+  - PROCESS-NAME,WechatAppLauncher.exe,DIRECT
+  # LANDrop
+  - PROCESS-NAME,LANDrop,DIRECT
+  - PROCESS-NAME,LANDrop.exe,DIRECT
