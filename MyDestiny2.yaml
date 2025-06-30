@@ -1,8 +1,6 @@
 # NAME: Destiny2
 payload:
-  - PROCESS-NAME,destiny2,🎮 Destiny 2
-  - PROCESS-NAME,destiny2.exe,🎮 Destiny 2
-  - PROCESS-NAME,destiny2launcher,🎮 Destiny 2
-  - PROCESS-NAME,destiny2launcher.exe,🎮 Destiny 2
-  - DOMAIN-SUFFIX,destinyitemmanager.com,🎮 Destiny 2
-  - DOMAIN-SUFFIX,bungie.net,🎮 Destiny 2
+  - PROCESS-NAME,destiny2
+  - PROCESS-NAME,destiny2.exe
+  - PROCESS-NAME,destiny2launcher
+  - PROCESS-NAME,destiny2launcher.exe

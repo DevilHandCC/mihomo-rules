@@ -1,12 +1,14 @@
 # behavior:domain
 payload:
-  - '+.all-voyeur.net'
-  - '+.cg-gamespc.com'
-  - '+.elamigosgames.org'
-  - '+.ext.to'
-  - '+.fetchv.net'
-  - '+.fitgirl-repacks.site'
-  - '+.imdb.com'
-  - '+.lsptu25.com'
-  - '+.nexusmods.com'
-  - '+.vjudge.net'
+  - "+.all-voyeur.net"
+  - "+.cg-gamespc.com"
+  - "+.elamigosgames.org"
+  - "+.ext.to"
+  - "+.fetchv.net"
+  - "+.fitgirl-repacks.site"
+  - "+.imdb.com"
+  - "+.lsptu25.com"
+  - "+.nexusmods.com"
+  - "+.vjudge.net"
+  - "+.bungie.net"
+  - "+.destinyitemmanager.com"

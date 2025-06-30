@@ -1,17 +1,17 @@
 payload:
   # pikpak
-  - PROCESS-NAME,PikPak,DIRECT
-  - PROCESS-NAME,PikPak.exe,DIRECT
-  - PROCESS-NAME,DownloadServer,DIRECT
-  - PROCESS-NAME,DownloadServer.exe,DIRECT
+  - PROCESS-NAME,PikPak
+  - PROCESS-NAME,PikPak.exe
+  - PROCESS-NAME,DownloadServer
+  - PROCESS-NAME,DownloadServer.exe
   # 百度网盘
-  - PROCESS-NAME,baidunetdisk,DIRECT
-  - PROCESS-NAME,baidunetdisk.exe,DIRECT
-  - PROCESS-NAME,YunDetectService,DIRECT
-  - PROCESS-NAME,YunDetectService.exe,DIRECT
-  - PROCESS-NAME,crashpad_handler,DIRECT
-  - PROCESS-NAME,crashpad_handler.exe,DIRECT
-  - PROCESS-NAME,BaiduNetdiskUnite,DIRECT
-  - PROCESS-NAME,BaiduNetdiskUnite.exe,DIRECT
-  - PROCESS-NAME,baidunetdiskhost,DIRECT
-  - PROCESS-NAME,baidunetdiskhost.exe,DIRECT
+  - PROCESS-NAME,baidunetdisk
+  - PROCESS-NAME,baidunetdisk.exe
+  - PROCESS-NAME,YunDetectService
+  - PROCESS-NAME,YunDetectService.exe
+  - PROCESS-NAME,crashpad_handler
+  - PROCESS-NAME,crashpad_handler.exe
+  - PROCESS-NAME,BaiduNetdiskUnite
+  - PROCESS-NAME,BaiduNetdiskUnite.exe
+  - PROCESS-NAME,baidunetdiskhost
+  - PROCESS-NAME,baidunetdiskhost.exe
