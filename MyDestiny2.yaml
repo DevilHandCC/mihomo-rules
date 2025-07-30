@@ -1,6 +1,4 @@
 # NAME: Destiny2
 payload:
-  - PROCESS-NAME,destiny2
   - PROCESS-NAME,destiny2.exe
-  - PROCESS-NAME,destiny2launcher
   - PROCESS-NAME,destiny2launcher.exe

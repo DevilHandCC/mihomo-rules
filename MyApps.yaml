@@ -1,31 +1,17 @@
 payload:
   # WeChat
-  - PROCESS-NAME,WeChat
   - PROCESS-NAME,WeChat.exe
-  - PROCESS-NAME,WeChatUpdate
   - PROCESS-NAME,WeChatUpdate.exe
-  - PROCESS-NAME,WeChatExt
   - PROCESS-NAME,WeChatExt.exe
-  - PROCESS-NAME,mmcrashpad_handler64
   - PROCESS-NAME,mmcrashpad_handler64.exe
-  - PROCESS-NAME,WetypeInstaller
   - PROCESS-NAME,WetypeInstaller.exe
-  - PROCESS-NAME,WechatCodec
   - PROCESS-NAME,WechatCodec.exe
-  - PROCESS-NAME,WeChatSpt
   - PROCESS-NAME,WeChatSpt.exe
-  - PROCESS-NAME,WechatAppLauncher
   - PROCESS-NAME,WechatAppLauncher.exe
-  - PROCESS-NAME,WeChatAppEx
   - PROCESS-NAME,WeChatAppEx.exe
-  - PROCESS-NAME,WeChatPlayer
   - PROCESS-NAME,WeChatPlayer.exe
-  - PROCESS-NAME,WeChatUtility
   - PROCESS-NAME,WeChatUtility.exe
-  - PROCESS-NAME,WeChatOCR
   - PROCESS-NAME,WeChatOCR.exe
-  - PROCESS-NAME,TxBugReport
   - PROCESS-NAME,TxBugReport.exe
   # LANDrop
-  - PROCESS-NAME,LANDrop
   - PROCESS-NAME,LANDrop.exe
