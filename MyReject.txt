@@ -1,6 +1,0 @@
-# behavior:domain
-.dbcyiwk.com
-# bilibili PCDN
-.mcdn.bilivideo.com
-.mcdn.bilivideo.cn
-.szbdyd.com
