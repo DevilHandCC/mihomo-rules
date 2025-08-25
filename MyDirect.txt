@@ -22,3 +22,7 @@
 +.strongerbyscience.com
 +.classcentral.com
 +.bideyuanli.com
++.mediaarea.net
++.codecguide.com
++.zimuku.org
++.zmk.pw
