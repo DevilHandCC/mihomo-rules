@@ -32,3 +32,6 @@
 +.imagetwist.com
 +.prntscr.com
 +.chkaja.com
++.11img.com
++.bilipimi.xyz
++.hilimiki.xyz
