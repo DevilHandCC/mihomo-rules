@@ -5,6 +5,7 @@
 +.mcdn.bilivideo.cn
 +.szbdyd.com
 # PCDN domains
+# 数据来源：https://github.com/privacy-protection-tools/anti-AD/blob/master/discretion/pcdn.txt
 bsccdn.net
 dyp2p-ali.douyucdn.cn
 dyp2p-hw.douyucdn.cn
