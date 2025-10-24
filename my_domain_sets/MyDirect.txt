@@ -26,3 +26,4 @@
 +.codecguide.com
 +.zimuku.org
 +.zmk.pw
++.bsncdn.org
