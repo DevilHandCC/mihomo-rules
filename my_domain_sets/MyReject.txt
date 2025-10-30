@@ -33,7 +33,6 @@ saxysec.com
 stun.douyucdn.cn
 stun.hitv.com
 stun1.douyucdn.cn
-szbdyd.com
 uhabo.com
 xycdn.com
 # End of PCDN domains
