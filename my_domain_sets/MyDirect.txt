@@ -10,7 +10,6 @@
 +.vjudge.net
 +.bungie.net
 +.destinyitemmanager.com
-+.gofile.io
 +.physicsoverflow.org
 +.physicsforums.com
 +.mathoverflow.net
