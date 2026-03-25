@@ -1,38 +1,92 @@
 # behavior:domain
 +.dbcyiwk.com
 # bilibili PCDN
+# PCDN domains
+# 数据来源：https://github.com/uselibrary/PCDN/blob/main/pcdn.list
+# 通用 CDN 域名
++.bsccdn.net
++.gjfzpt.cn
++.jomodns.cn
++.kuiniuca.com
++.pkoplink.com
++.saxysec.com
++.szbdyd.com
++.uhabo.com
++.xycdn.com
+# 视频平台 CDN
 +.mcdn.bilivideo.com
 +.mcdn.bilivideo.cn
-+.szbdyd.com
-# PCDN domains
-# 数据来源：https://github.com/privacy-protection-tools/anti-AD/blob/master/discretion/pcdn.txt
-bsccdn.net
-dyp2p-ali.douyucdn.cn
-dyp2p-hw.douyucdn.cn
-ietheivaicai.com
-kuiniuca.com
-nexusedgeio.com
-onethingpcs.com
-p2p-ali.douyucdn.cn
++.onethingpcs.com
++.pcdn.xmcdn.com
++.tpa-hcdn.iqiyi.com
+# P2P 相关域名
 p2p.huya.com
 p2p.qq.com
-p2pchunk-hw.douyucdn.cn
-p2pchunk-table.douyucdn.cn
-p2pchunk-ws.douyucdn.cn
-p2perrorlog.douyucdn.cn
-p2plive-ali.douyucdn.cn
-p2plive-ws.douyucdn.cn
-p2plog.douyucdn.cn
 p2ptun.qq.com
 p2pupdate.gamedl.qq.com
 p2pupgrade.gamedl.qq.com
-p2pvod-ws.douyucdn.cn
 pcdn.yximgs.com
-pkoplink.com
-saxysec.com
-stun.douyucdn.cn
 stun.hitv.com
-stun1.douyucdn.cn
-uhabo.com
-xycdn.com
-# End of PCDN domains
+# 斗鱼规则
++.stun.douyucdn.cn
++.stun1.douyucdn.cn
++.dyp2p-ali.douyucdn.cn
++.dyp2p-hw.douyucdn.cn
++.p2p-ali.douyucdn.cn
++.p2pchunk-hw.douyucdn.cn
++.p2pchunk-table.douyucdn.cn
++.p2pchunk-ws.douyucdn.cn
++.p2perrorlog.douyucdn.cn
++.p2plive-ali.douyucdn.cn
++.p2plive-ws.douyucdn.cn
++.p2plog.douyucdn.cn
++.p2pvod-ws.douyucdn.cn
+# 数据来源：https://luotianyi.vc/9260.html
+# B站
+mcdn.bilivideo.cn
+mcdn.bilivideo.com
+ppio.bilivideo.com
+kodo.bilivideo.com
+mountaintoys.cn
+szbdyd.com
+smtcdns.net
+# 腾讯
+hcdn.video.qq.com
+pcdn.video.qq.com
+vodlive.qq.com
+iwan-s.video.qq.com
+gdt.qq.com
+cm.l.qq.com
+isure6.stream.qqmusic.qq.com
+# 爱奇艺
+hcdn.qiyi.com
+pdata.video.qiyi.com
+cachecdn.v.iqiyi.com
+meta-cdn.video.iq.com
+tpa-hcdn.iqiyi.com
+data6.video.iqiyi.com
+# 优酷
+atm.youku.com
+Fvid.atm.youku.com
+html.atm.youku.com
+valb.atm.youku.com
+valf.atm.youku.com
+static.atm.youku.com
+valc.atm.youku.com
+# 字节
+pull-rtmp-l11.ixigua.com
+push-rtmp-l1.ixigua.com
+pull-hs-f5-hot.flive.douyincdn.com
+# 斗鱼
+p2p.douyucdn.cn
+# 酷狗
+trackercdn.kugou.com
+mobiletrackercdn.kugou.com
+d.kugou.com
+# 网易云
+163jiasu.com
+sf.163.com
+# 其他
+p-cdn.com
+pscdn.co
+p.scdn.co
