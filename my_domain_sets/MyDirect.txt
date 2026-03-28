@@ -27,3 +27,4 @@
 +.zmk.pw
 +.bsncdn.org
 +.steambk.com
++.windfiles.com
