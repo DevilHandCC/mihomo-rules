@@ -28,3 +28,6 @@
 +.bsncdn.org
 +.steambk.com
 +.windfiles.com
++.ra2diy.com
++.phobos.readthedocs.io
++.launchpad.net
