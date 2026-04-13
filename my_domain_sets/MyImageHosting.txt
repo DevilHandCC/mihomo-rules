@@ -60,3 +60,4 @@
 +.z4a.net
 +.picshick.com
 +.kekepic.xyz
++.mulipic.xyz
