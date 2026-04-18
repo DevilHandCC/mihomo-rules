@@ -31,3 +31,5 @@
 +.ra2diy.com
 +.phobos.readthedocs.io
 +.launchpad.net
++.moguwp.com
++.116pan.com
