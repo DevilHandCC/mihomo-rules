@@ -61,3 +61,4 @@
 +.picshick.com
 +.kekepic.xyz
 +.mulipic.xyz
++.mymypic.net
