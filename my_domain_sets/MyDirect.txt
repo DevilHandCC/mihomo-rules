@@ -33,3 +33,4 @@
 +.launchpad.net
 +.moguwp.com
 +.116pan.com
++.xnview.com
