@@ -8,7 +8,7 @@
 +.imdb.com
 +.nexusmods.com
 +.vjudge.net
-+.bungie.net
+# +.bungie.net
 +.destinyitemmanager.com
 +.physicsoverflow.org
 +.physicsforums.com
