@@ -1,4 +1,5 @@
 # NAME: Destiny2
 payload:
+  - DOMAIN-SUFFIX,bungie.net
   - PROCESS-NAME,destiny2.exe
   - PROCESS-NAME,destiny2launcher.exe
