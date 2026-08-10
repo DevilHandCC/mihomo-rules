@@ -48,7 +48,7 @@
 +.qpic.ws
 +.ressim.net
 +.tntfiles.com
-+.tupian.li
+# +.tupian.li
 +.tupptu.cc
 +.wellpicpic.xyz
 +.wp.com
