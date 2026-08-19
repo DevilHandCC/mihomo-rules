@@ -66,3 +66,5 @@
 +.dmm.co.jp
 +.img906.com
 +.pichauv.com
++.hulipic.xyz
++.hehepic.xyz
