@@ -43,3 +43,4 @@
 +.godroll.tv
 +.overfetch.video
 +.filecoster.com
++.handbrake.fr
